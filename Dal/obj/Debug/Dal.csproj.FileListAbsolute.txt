@@ -1,0 +1,16 @@
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\Dal.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\Dal.pdb
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\Domain.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\log4net.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\MongoDB.Bson.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\MongoDB.Driver.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\Domain.pdb
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\log4net.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\MongoDB.Bson.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\MongoDB.Driver.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\obj\Debug\Dal.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Dal\obj\Debug\Dal.pdb

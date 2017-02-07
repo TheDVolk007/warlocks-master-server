@@ -1,0 +1,28 @@
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+
+*.user
+App/[Bb]in/
+App/[Oo]bj/
+Dal/[Bb]in/
+Dal/[Oo]bj/
+Domain/[Bb]in/
+Domain/[Oo]bj/
+Presentation/[Bb]in/
+Presentation/[Oo]bj/
+UnitTestProject/[Bb]in/
+UnitTestProject/[Oo]bj/
+.vs/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Tt]humbs.db.meta

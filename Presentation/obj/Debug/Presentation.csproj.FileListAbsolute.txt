@@ -1,0 +1,24 @@
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Warlocks Master Server.exe.config
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Warlocks Master Server.exe
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Warlocks Master Server.pdb
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\App.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Dal.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Domain.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\log4net.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\MongoDB.Bson.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\MongoDB.Driver.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\App.pdb
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Dal.pdb
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Domain.pdb
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\log4net.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\MongoDB.Bson.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\MongoDB.Driver.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\obj\Debug\Presentation.MainForm.resources
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\obj\Debug\Warlocks Master Server.exe
+C:\Users\Dmitry\Documents\Projects\warlocks\warlocks-master-server\Presentation\obj\Debug\Warlocks Master Server.pdb
